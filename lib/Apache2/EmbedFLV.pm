@@ -77,7 +77,7 @@ You can see it in action here: L<http://axiombox.com/apache2-embedflv/flv>.
 
 =head1 FLOWPLAYER
 
-Find the Flowplayer distribution on L<http://flowplayer.com>. It is a nice
+Find the Flowplayer distribution on L<http://flowplayer.org>. It is a nice
 little GPL video player.
 
 =head1 DOWNLOAD
@@ -124,7 +124,7 @@ L<http://flowplayer.org/download/LICENSE_GPL.txt>.
 
 package Apache2::EmbedFLV;
 
-our $VERSION = '0.1';
+our $VERSION = '0.1.1';
 
 use Apache2::Request;
 use Apache2::RequestRec ();
